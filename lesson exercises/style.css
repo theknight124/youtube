@@ -1,0 +1,21 @@
+.cat-pic-left {
+width: 200px;
+border-radius: 10px;
+}
+
+.cat-pic-middle {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  object-position: center;
+  margin-left: 200px;
+  margin-right: 200px; 
+}
+
+.cat-pic-right {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+}
